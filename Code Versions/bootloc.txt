@@ -1,0 +1,15 @@
+WS-C2950-24 flash:
+WS-C3560-8PC-S flash:
+WS-C3560-12PC-S flash:
+WS-C3560G-24PS flash:
+WS-C3560X-24P-L flash:
+WS-C3560X-24U-L flash:
+WS-C3560E-48PD flash:
+WS-C3560X-48PF-L flash:
+WS-C4503-E flash bootflash:
+WS-C4506-E flash bootflash:
+WS-C4507-E flash bootflash:
+WS-C4507R+E flash bootflash:
+WS-C4510-E flash bootflash:
+WS-C4510R+E flash bootflash:
+WS-C6509-E bootdisk:

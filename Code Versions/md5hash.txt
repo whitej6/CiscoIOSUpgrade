@@ -1,0 +1,10 @@
+c2950-i6k2l2q4-mz.121-22.EA14.bin 8d3250ee253b81b7fe2762e281773fbc
+c2950-i6q4l2-mz.121-11.EA1.bin 7bcb5ddd935b6e0e1590b76eb145dfe7
+c3560-ipbasek9-mz.122-55.SE5.bin f0e3ac56ecd66134e41c1fe2b458651c
+c3560-ipbasek9-mz.122-55.SE11.bin 2dff055fc2f5beadaab77d2596b4110f
+c3560-ipbasek9-mz.122-55.fail.bin f0e3ac56ecd66134e41c1fe2b458651c
+c3560-ipbasek9-mz.150-2.SE10a.bin 8be98683c6f2f818248ed2acbde389c0
+c3560-ipservicesk9-mz.122-58.SE2.bin bbddf83e7ee1023619630110b6b3a998
+c2800nm-ipbasek9-mz.151-4.M12a.bin cf83b688c332190162046b06c325b23f 
+c2800nm-advipservicesk9-mz.151-3.T1.bin b03e4f29e6e9ccc6747e2ad6c0fdfa6f
+c2800nm-ipvoice_ivs-mz.151-4.M12a.bin c8642dc03703225f493bace88ea46c2f
